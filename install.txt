@@ -1,0 +1,7 @@
+adds a post apocalyptic look and feel to arma 3 altis
+
+Just add the a3_epoch_ambiance.pbo to your @epochhive\addons folder
+
+then in your epochconfig.hpp located in your @epochhive folder
+
+place // at the begining of { 900, "ChangeWeather", 1 , 1}, to stop epoch weather script from running
